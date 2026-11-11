@@ -1,5 +1,6 @@
 print("Iniciando o Radar Comercial")
 
-def saudacao(): return "Olá, Melck"
+Nome = "Melck"
+def saudacao(): return f"Olá {Nome}, bons estudos!"
 
 print(saudacao())
