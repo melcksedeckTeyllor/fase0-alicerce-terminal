@@ -1,0 +1,9 @@
+Aprendi os fundamentos do Git, compreendendo como funciona o controle de versão por meio de repositórios, Staging Area, commits e histórico de alterações.
+
+Pratiquei os principais comandos (git init, git status, git add, git commit, git log e git diff), entendendo suas funções no fluxo de versionamento.
+
+Também conheci o padrão Conventional Commits e sua importância para manter um histórico organizado e padronizado.
+
+Por fim, apliquei os conhecimentos na prática ao corrigir a inicialização do Git no diretório errado, preservando os commits existentes e reorganizando a estrutura do repositório.
+
+Principal aprendizado: compreender como o Git rastreia, organiza e preserva as alterações de um projeto, desenvolvendo autonomia para trabalhar com versionamento.
