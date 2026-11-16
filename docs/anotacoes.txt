@@ -6,4 +6,11 @@ Também conheci o padrão Conventional Commits e sua importância para manter um
 
 Por fim, apliquei os conhecimentos na prática ao corrigir a inicialização do Git no diretório errado, preservando os commits existentes e reorganizando a estrutura do repositório.
 
-Principal aprendizado: compreender como o Git rastreia, organiza e preserva as alterações de um projeto, desenvolvendo autonomia para trabalhar com versionamento.
+Principal aprendizado: compreender como o Git rastreia, organiza e preserva as alterações de um projeto, desenvolvendo autonomia para trabalhar com versionamento.'
+
+ - 15/11/2026
+ Parte 1: Branches, Checkout/Switch e Merge
+    Até o momento estava vendo somente a linha do tempo principal. Porém trabalhar em equipe exige trabalahr em paralelo no mesmo projeto sem que ocorra conflitos.
+    Para isso temos a BRANCH que é uma ramificação, uma copia isolada da linha do tempo atual que nos permite atualizar e adicionar funcionalidades sem que a linha do tempo principal quebre.
+    O comando para criar e ja entrar em uma nova branch - git checkout -b ou git switch -c. 
+    Para que possamos trazer as atualizações feitas em uma branch usamos o MERGE, que é o ato de juntar uma branch na main(branch principal)
