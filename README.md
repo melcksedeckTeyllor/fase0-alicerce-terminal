@@ -97,4 +97,4 @@ Status: Em desenvolvimento.
 
 Propósito: Aprender praticando, documentar para consolidar e construir autonomia técnica.
 
-Alterando novamente para conflito
+Linha oficial da main
