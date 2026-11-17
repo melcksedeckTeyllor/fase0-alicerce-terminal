@@ -97,4 +97,4 @@ Status: Em desenvolvimento.
 
 Propósito: Aprender praticando, documentar para consolidar e construir autonomia técnica.
 
-Linha oficial da main
+Linha alterada na feature
