@@ -96,3 +96,5 @@ Ao finalizar esta etapa, espero ter autonomia para:
 Status: Em desenvolvimento.
 
 Propósito: Aprender praticando, documentar para consolidar e construir autonomia técnica.
+
+Linha oficial da main
